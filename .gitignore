@@ -1,0 +1,9 @@
+.env
+.vite
+/.idea
+/.vscode
+/.hbuilderx
+/uni_modules
+/node_modules
+/unpackage
+/common/config.ts
